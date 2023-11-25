@@ -1,17 +1,17 @@
 module.exports = {
   bot: {
-    token: "", // Bot List Bot Token from https://discord.com/developers/applications
-    owners: [""],
+    token: "ODM0ODc0NTg2MjAxNDU2NjQw.GZXnHE.2JAlnBjmoaES7tXlDR-8yGPaGllOUoVA3ANdQo", // Bot List Bot Token from https://discord.com/developers/applications
+    owners: ["700971576367251488"],
     mongourl: "", //https://mongodb.com/cloud/atlas/register
     servers: {
-      token: "" // Server List Bot Token
+      token: "ODM0ODc0NTg2MjAxNDU2NjQw.GZXnHE.2JAlnBjmoaES7tXlDR-8yGPaGllOUoVA3ANdQo" // Server List Bot Token
     },
   },
 
   website: {
     callback: "", //example : https://vcodes.xyz/callback avoid / at last.
     secret: "",
-    clientID: "", // Bot client id.
+    clientID: "834874586201456640", // Bot client id.
     tags: [
       "Moderation",
       "Fun",
